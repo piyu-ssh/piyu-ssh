@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
 <h3 align="center">A passionate coder, who loves to learn new things everyday,</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyu-ssh" alt="piyu-ssh" /></a> </p>
-
 - 🔭 I’m currently working on [piyu-ssh.github.io](https://piyu-ssh.github.io/)
 
 - 🌱 I’m currently learning **Web-Development, JavaScript, and many more things!**
